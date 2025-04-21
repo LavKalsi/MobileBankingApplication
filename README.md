@@ -57,10 +57,6 @@ Welcome to **FinVault**, a sleek and modern mobile banking app prototype designe
 
 ---
 
-## 📁 Folder Structure (If applicable)
-
-FinVault_UI/ ├── Screenshots/ │ ├── home_screen.png │ ├── send_money.png │ └── ... ├── README.md └── FinVault_Figma_Link.txt
----
 
 ## 🚀 Getting Started
 
